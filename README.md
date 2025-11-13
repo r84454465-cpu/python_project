@@ -1,5 +1,4 @@
 # python_project
-<<<<<<< HEAD
 
 # FastAPI + Google Gemini 2.5 Flash Backend
 
@@ -132,6 +131,4 @@ This backend is:
 - Fast  
 - Clean  
 - Fully functional  
-=======
 # python_project
->>>>>>> 6635ff1fd8d44077a02a9b1d64c789eb25604043
